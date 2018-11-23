@@ -1,0 +1,10 @@
+Questão 1: A herança pode ser vista neste jogo quando a classe carro herda a classe do próprio pygame: Sprite, na linha 8 do arquivo: objeto;
+
+Questão 3: Um exemplo de atributo que pode ser dado, são as coordenadas que a classe Carro possui (x e y), que podem ser encontradas respectivamente nas linhas: 13 e 14
+
+Questão 4: Um exemplo de método que pode ser dado, é o “andarDir”, presente na classe Carro, que pode ser encontrado na linha 18 do código
+
+Questão 6: A instanciação de um objeto está na linha 29 do código, onde, a Classe carro, esta sendo instanciada com os parâmetros requeridos
+
+Questão 7: A chamada de um método ocorre na linha 66, onde o método: “andarEsq” esta sendo chamado a partir da classe já instanciada: carro;
+ 
